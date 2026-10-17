@@ -10,7 +10,7 @@ Script Purpose:
 
 Parameters :
      None.
-   This stoerd procedure not accept any parameters or return any value.
+   This stored procedure not accept any parameters or return any value.
 
 Usage Example:
    EXEC Bronze.load_bronze;
